@@ -1,4 +1,4 @@
-# Laravel Nova Component Watcher
+# ⏰ [WIP] Laravel Nova Component Watcher
 
 As many of you may be aware, each custom nova component has it's own node environment.
 
