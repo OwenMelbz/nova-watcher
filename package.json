@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": ["laravel", "nova", "mix"],
+  "author": "Owen Melbourne",
   "license": "MIT",
   "dependencies": {
     "laravel-nova": "^1.0"

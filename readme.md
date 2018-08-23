@@ -43,5 +43,3 @@ The webpack mix config it uses is the vanilla laravel-nova config as below
 ```
 
 If you need more advance ones, feel free to modify the code as much as you want.
-
-If you need more advance ones, feel free to modify the code as much as you want.
