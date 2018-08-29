@@ -4,7 +4,7 @@ As many of you may be aware, each custom nova component has it's own node enviro
 
 This can be lovely if you're producing components to share and never touch again.
 
-However it can be a massive pain if you're actively developing a application and reguarlly changing components to fulfil your requirements.
+However it can be a massive pain if you're actively developing a application and regularly changing components to fulfil your requirements.
 
 This package simply adds a function to your `webpack.mix.js` and autoloads in your components so you can use live building etc from a single root watch process.
 
@@ -42,4 +42,4 @@ The webpack mix config it uses is the vanilla laravel-nova config as below
 });
 ```
 
-If you need more advance ones, feel free to modify the code as much as you want.
+If you need more advanced options, feel free to modify the code as much as you want.
